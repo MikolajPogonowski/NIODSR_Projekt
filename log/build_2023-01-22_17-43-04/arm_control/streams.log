@@ -1,0 +1,35 @@
+[0.720s] Invoking command in '/home/fsowinski/ros2_ws/src/arm_control': PYTHONPATH=/home/fsowinski/ros2_ws/build/arm_control/prefix_override:/home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arm_control build --build-base /home/fsowinski/ros2_ws/build/arm_control/build install --record /home/fsowinski/ros2_ws/build/arm_control/install.log --single-version-externally-managed
+[0.959s] running egg_info
+[0.959s] creating ../../build/arm_control/arm_control.egg-info
+[0.959s] writing ../../build/arm_control/arm_control.egg-info/PKG-INFO
+[0.969s] writing dependency_links to ../../build/arm_control/arm_control.egg-info/dependency_links.txt
+[0.970s] writing entry points to ../../build/arm_control/arm_control.egg-info/entry_points.txt
+[0.971s] writing requirements to ../../build/arm_control/arm_control.egg-info/requires.txt
+[0.971s] writing top-level names to ../../build/arm_control/arm_control.egg-info/top_level.txt
+[0.971s] writing manifest file '../../build/arm_control/arm_control.egg-info/SOURCES.txt'
+[0.971s] reading manifest file '../../build/arm_control/arm_control.egg-info/SOURCES.txt'
+[0.972s] writing manifest file '../../build/arm_control/arm_control.egg-info/SOURCES.txt'
+[0.972s] running build
+[0.972s] running build_py
+[0.972s] creating /home/fsowinski/ros2_ws/build/arm_control/build
+[0.972s] creating /home/fsowinski/ros2_ws/build/arm_control/build/lib
+[0.972s] creating /home/fsowinski/ros2_ws/build/arm_control/build/lib/arm_control
+[0.972s] copying arm_control/__init__.py -> /home/fsowinski/ros2_ws/build/arm_control/build/lib/arm_control
+[0.973s] running install
+[0.982s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.982s]   warnings.warn(
+[0.982s] running install_lib
+[0.983s] creating /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control
+[0.983s] copying /home/fsowinski/ros2_ws/build/arm_control/build/lib/arm_control/__init__.py -> /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control
+[0.983s] byte-compiling /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control/__init__.py to __init__.cpython-310.pyc
+[0.984s] running install_data
+[0.984s] creating /home/fsowinski/ros2_ws/install/arm_control/share/ament_index
+[0.984s] creating /home/fsowinski/ros2_ws/install/arm_control/share/ament_index/resource_index
+[0.984s] creating /home/fsowinski/ros2_ws/install/arm_control/share/ament_index/resource_index/packages
+[0.985s] copying resource/arm_control -> /home/fsowinski/ros2_ws/install/arm_control/share/ament_index/resource_index/packages
+[0.985s] copying package.xml -> /home/fsowinski/ros2_ws/install/arm_control/share/arm_control
+[0.985s] running install_egg_info
+[0.986s] Copying ../../build/arm_control/arm_control.egg-info to /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control-0.0.0-py3.10.egg-info
+[0.987s] running install_scripts
+[1.009s] writing list of installed files to '/home/fsowinski/ros2_ws/build/arm_control/install.log'
+[1.041s] Invoked command in '/home/fsowinski/ros2_ws/src/arm_control' returned '0': PYTHONPATH=/home/fsowinski/ros2_ws/build/arm_control/prefix_override:/home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arm_control build --build-base /home/fsowinski/ros2_ws/build/arm_control/build install --record /home/fsowinski/ros2_ws/build/arm_control/install.log --single-version-externally-managed

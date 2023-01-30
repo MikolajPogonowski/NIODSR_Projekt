@@ -1,0 +1,3 @@
+[console_scripts]
+camera_node = arm_control.camera_node:main
+

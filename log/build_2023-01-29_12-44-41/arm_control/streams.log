@@ -1,0 +1,27 @@
+[1.087s] Invoking command in '/home/fsowinski/ros2_ws/src/arm_control': PYTHONPATH=/home/fsowinski/ros2_ws/build/arm_control/prefix_override:/home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arm_control build --build-base /home/fsowinski/ros2_ws/build/arm_control/build install --record /home/fsowinski/ros2_ws/build/arm_control/install.log --single-version-externally-managed
+[1.519s] running egg_info
+[1.520s] writing ../../build/arm_control/arm_control.egg-info/PKG-INFO
+[1.520s] writing dependency_links to ../../build/arm_control/arm_control.egg-info/dependency_links.txt
+[1.521s] writing entry points to ../../build/arm_control/arm_control.egg-info/entry_points.txt
+[1.521s] writing requirements to ../../build/arm_control/arm_control.egg-info/requires.txt
+[1.521s] writing top-level names to ../../build/arm_control/arm_control.egg-info/top_level.txt
+[1.524s] reading manifest file '../../build/arm_control/arm_control.egg-info/SOURCES.txt'
+[1.525s] writing manifest file '../../build/arm_control/arm_control.egg-info/SOURCES.txt'
+[1.525s] running build
+[1.526s] running build_py
+[1.526s] copying arm_control/camera_node.py -> /home/fsowinski/ros2_ws/build/arm_control/build/lib/arm_control
+[1.526s] running install
+[1.526s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.527s]   warnings.warn(
+[1.527s] running install_lib
+[1.528s] copying /home/fsowinski/ros2_ws/build/arm_control/build/lib/arm_control/camera_node.py -> /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control
+[1.529s] byte-compiling /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control/camera_node.py to camera_node.cpython-310.pyc
+[1.530s] running install_data
+[1.530s] running install_egg_info
+[1.532s] removing '/home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control-0.0.0-py3.10.egg-info' (and everything under it)
+[1.533s] Copying ../../build/arm_control/arm_control.egg-info to /home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages/arm_control-0.0.0-py3.10.egg-info
+[1.534s] running install_scripts
+[1.571s] Installing camera_node script to /home/fsowinski/ros2_ws/install/arm_control/lib/arm_control
+[1.572s] Installing ur_node script to /home/fsowinski/ros2_ws/install/arm_control/lib/arm_control
+[1.572s] writing list of installed files to '/home/fsowinski/ros2_ws/build/arm_control/install.log'
+[1.608s] Invoked command in '/home/fsowinski/ros2_ws/src/arm_control' returned '0': PYTHONPATH=/home/fsowinski/ros2_ws/build/arm_control/prefix_override:/home/fsowinski/ros2_ws/install/arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arm_control build --build-base /home/fsowinski/ros2_ws/build/arm_control/build install --record /home/fsowinski/ros2_ws/build/arm_control/install.log --single-version-externally-managed
